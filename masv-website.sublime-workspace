@@ -1,0 +1,1060 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"impo",
+				"important"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"e",
+				"example_list"
+			],
+			[
+				"eq",
+				"equal_tuple"
+			],
+			[
+				"get",
+				"get_distance"
+			],
+			[
+				"eqn",
+				"eqn_list"
+			],
+			[
+				"item",
+				"itemCount"
+			],
+			[
+				"num",
+				"numMost"
+			],
+			[
+				"is",
+				"isDynamic"
+			],
+			[
+				"mo",
+				"moveFound"
+			],
+			[
+				"bes",
+				"bestMove2"
+			],
+			[
+				"best",
+				"bestMove2"
+			],
+			[
+				"ran",
+				"randomGame"
+			],
+			[
+				"be",
+				"bestScore"
+			],
+			[
+				"make",
+				"makeGame"
+			],
+			[
+				"rand",
+				"randMove"
+			],
+			[
+				"mak",
+				"makeMove"
+			],
+			[
+				"ro",
+				"rotated"
+			],
+			[
+				"move",
+				"moveList"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"wra",
+				"wrapper"
+			],
+			[
+				"run",
+				"run_random"
+			],
+			[
+				"mov",
+				"moveList"
+			],
+			[
+				"pa",
+				"parallel"
+			],
+			[
+				"par",
+				"parallel_attribute"
+			],
+			[
+				"a",
+				"average"
+			],
+			[
+				"ave",
+				"averages"
+			],
+			[
+				"up",
+				"upaverage"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"Des",
+				"Design"
+			],
+			[
+				"av",
+				"avgscore"
+			],
+			[
+				"avg",
+				"avgmoves"
+			],
+			[
+				"Ge",
+				"GetChar"
+			],
+			[
+				"Man",
+				"Manager"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"emai",
+				"email_sorted"
+			],
+			[
+				"email",
+				"email_list"
+			],
+			[
+				"em",
+				"email_list"
+			],
+			[
+				"ex",
+				"expenseInput"
+			],
+			[
+				"exp",
+				"expenseInput"
+			],
+			[
+				"per",
+				"percentChange"
+			],
+			[
+				"Enter",
+				"Entertainment"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"Num",
+				"numWeeks"
+			],
+			[
+				"file",
+				"file_id"
+			],
+			[
+				"name",
+				"namelength"
+			],
+			[
+				"interse",
+				"intersection"
+			],
+			[
+				"fil",
+				"fieldnames"
+			],
+			[
+				"field",
+				"field_sum"
+			],
+			[
+				"fie",
+				"field_name"
+			],
+			[
+				"fi",
+				"field_name"
+			],
+			[
+				"field_",
+				"field_sum"
+			],
+			[
+				"aggre",
+				"aggregate_data"
+			],
+			[
+				"str",
+				"start_index"
+			],
+			[
+				"st",
+				"start_index"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"place",
+				"placeholder"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/hammadjutt/Dropbox/Apps/azure(1)/masv/static/less/style.less",
+			"settings":
+			{
+				"buffer_size": 2478,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/hammadjutt/Dropbox/Apps/azure(1)/masv/index.html",
+			"settings":
+			{
+				"buffer_size": 13292,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nTypeScript:\n----------\n\n  Welcome to the TypeScript plugin for Sublime Text!\n  \n  Details about this package and its feature can be found on its GitHub\n  repository at https://github.com/Microsoft/TypeScript-Sublime-Plugin.\n  \n  v0.1.5 updates:\n      - Fixed several issues with syntax highlighting\n      - Fixed performance issues caused by quickinfo requests on large files\n      - Fixed the bug where users were unable to type the '}' and ';' keys\n      - Fixed wrong indentation between curly braces\n      - Fixed issues with signature tooltip positioning\n      - Fixed incorrect error spans in Sublime Text 2\n      - Resolved confusion caused by certain snippet triggers in the completion list \n      - Added build functionality for loose files and projects configured with tsconfig.json. TypeScript files can now be built via \"Tools\" -> \"Build\" in the menu\n      - Updated the TypeScript language service to v1.5 (will ship with Visual Studio 2015 RTM)\n  \n      ",
+			"settings":
+			{
+				"buffer_size": 1019,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/Users/hammadjutt/Dropbox/Apps/azure(1)/masv/contact.html",
+			"settings":
+			{
+				"buffer_size": 9097,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/hammadjutt/Dropbox/Apps/azure(1)/masv/pricing.html",
+			"settings":
+			{
+				"buffer_size": 10917,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/hammadjutt/Dropbox/Apps/azure(1)/masv/login.html",
+			"settings":
+			{
+				"buffer_size": 7719,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/hammadjutt/Documents/Startup Framework/Developer/ui-kit/ui-kit-price/less/ui-kit-styles.less",
+			"settings":
+			{
+				"buffer_size": 885,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/hammadjutt/Dropbox/Apps/azure(1)/masv/renters.html",
+			"settings":
+			{
+				"buffer_size": 7746,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/hammadjutt/Dropbox/Apps/azure(1)/masv/suppliers.html",
+			"settings":
+			{
+				"buffer_size": 7748,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/hammadjutt/Dropbox/Apps/azure(1)/masv",
+		"/Users/hammadjutt/Documents/Startup Framework",
+		"/Users/hammadjutt/Documents/Startup Framework/Developer",
+		"/Users/hammadjutt/Documents/Startup Framework/Developer/ui-kit",
+		"/Users/hammadjutt/Documents/Startup Framework/Developer/ui-kit/ui-kit-price",
+		"/Users/hammadjutt/Documents/Startup Framework/Developer/ui-kit/ui-kit-price/less"
+	],
+	"file_history":
+	[
+		"/Users/hammadjutt/Dropbox/Apps/azure(1)/masv/contact.html",
+		"/Users/hammadjutt/Dropbox/Apps/azure(1)/masv/pricing.html",
+		"/Users/hammadjutt/Dropbox/Apps/azure(1)/masv/startup/ui-kit/ui-kit-price/less/price-2.less",
+		"/Users/hammadjutt/Documents/Startup Framework/Developer/ui-kit/ui-kit-price/less/price-common.less",
+		"/Users/hammadjutt/Documents/Startup Framework/Developer/ui-kit/ui-kit-price/less/style.less",
+		"/Users/hammadjutt/Documents/Startup Framework/Developer/ui-kit/ui-kit-price/less/price-2.less",
+		"/Users/hammadjutt/Dropbox/Apps/azure(1)/masv/index.html",
+		"/Users/hammadjutt/Dropbox/Apps/azure(1)/masv/suppliers.html",
+		"/Users/hammadjutt/Dropbox/Apps/azure(1)/masv/renters.html",
+		"/Users/hammadjutt/Dropbox/Apps/azure(1)/masv/login.html",
+		"/Users/hammadjutt/Dropbox/Apps/azure(1)/masv/startup/ui-kit/ui-kit-contacts/less/contact-1.less",
+		"/Users/hammadjutt/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/hammadjutt/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/hammadjutt/Library/Application Support/Sublime Text 3/Packages/User/less2css.sublime-settings",
+		"/Users/hammadjutt/Dropbox/Apps/azure(1)/masv/static/css/style.css",
+		"/Users/hammadjutt/Library/Application Support/Sublime Text 3/Packages/LESS/README.md",
+		"/Users/hammadjutt/Library/Application Support/Sublime Text 3/Packages/Less2Css/less2css.sublime-settings",
+		"/Users/hammadjutt/Google Drive/Downloads/bst-2.py",
+		"/Users/hammadjutt/Google Drive/Downloads/easy_bst.py",
+		"/Users/hammadjutt/Dropbox/c275/final/q7.py",
+		"/Users/hammadjutt/Google Drive/Downloads/memoized_fib.py",
+		"/Users/hammadjutt/Dropbox/c275/C275Final.sublime-project",
+		"/Users/hammadjutt/Dropbox/c275/Project/C275-Project/engine.py",
+		"/Users/hammadjutt/Dropbox/c275/Project/C275-ProjectSandbox/data.py",
+		"/Users/hammadjutt/Dropbox/c275/Project/C275-ProjectSandbox/data collection",
+		"/Users/hammadjutt/Dropbox/c275/Project/C275-Project/results1to10.csv",
+		"/Users/hammadjutt/Dropbox/c275/Project/C275-Project/interface.py",
+		"/Users/hammadjutt/Dropbox/c275/Project/2048.py",
+		"/Users/hammadjutt/Dropbox/c275/Project/sim/4096/engine.py",
+		"/Users/hammadjutt/Desktop/Screen Shot 2015-04-08 at 11.33.19 PM.png",
+		"/Users/hammadjutt/Dropbox/c275/Project/Terminal Game/term2048-master/term2048/board.py",
+		"/Users/hammadjutt/Dropbox/c275/Project/C275-ProjectSandbox/multi.py",
+		"/Users/hammadjutt/Dropbox/c275/Project/C275-Project/interface2.py",
+		"/Users/hammadjutt/Dropbox/c275/Project/C275-Project/multi.py",
+		"/Users/hammadjutt/Dropbox/Winter 2015/ECE 212/Lab/lab 3/Week3 Final/lab3/Lab3b.s",
+		"/Users/hammadjutt/Dropbox/Apps/Azure(1)/hammadjutt/index.html",
+		"/Users/hammadjutt/Dropbox/Apps/Azure(1)/hammadjutt/inc/sendEmail.php",
+		"/Users/hammadjutt/Dropbox/Apps/Azure(1)/hammadjutt/css/responsive.css",
+		"/Users/hammadjutt/Dropbox/Apps/Azure(1)/hammadjutt/css/style.css",
+		"/Users/hammadjutt/Dropbox/Apps/Azure(1)/hammadjutt/img/icons/smile.svg",
+		"/Users/hammadjutt/Google Drive/Downloads/smiling36.svg",
+		"/Users/hammadjutt/Dropbox/Apps/Azure (1)/hammadjutt/index.html",
+		"/Users/hammadjutt/Dropbox/Apps/Azure (1)/hammadjutt/js/scripts.js",
+		"/Users/hammadjutt/Dropbox/Apps/Azure (1)/hammadjutt/index.jade",
+		"/Users/hammadjutt/Dropbox/Apps/Azure (1)/hammadjutt/index2.jade",
+		"/Users/hammadjutt/Dropbox/Apps/Azure (1)/hammadjutt/css/style.css",
+		"/Users/hammadjutt/Google Drive/Downloads/Pixate Studio.app/Contents/_CodeSignature/CodeResources",
+		"/Users/hammadjutt/Dropbox/c275/Project/C275-Project/results1to100.csv",
+		"/Users/hammadjutt/Dropbox/c275/Project/C275-Project/resultsbig.csv",
+		"/Users/hammadjutt/Dropbox/c275/Project/C275-Project/results.csv",
+		"/Users/hammadjutt/Dropbox/c275/Project/C275-Project/data.py",
+		"/Users/hammadjutt/Dropbox/Winter 2015/ECE 212/Lab/Lab 1/Lab1 Final/lab1.zip",
+		"/Users/hammadjutt/Dropbox/Winter 2015/ECE 212/Lab/lab 3/Week 2/Lab3.zip",
+		"/Users/hammadjutt/Dropbox/Apps/Azure (1)/hammadjutt/resume.pdf",
+		"/Users/hammadjutt/Dropbox/Sub/a3.c",
+		"/Users/hammadjutt/Dropbox/CMPUT 275/a2_game/gather.py",
+		"/Users/hammadjutt/Desktop/a2_game/gather.py",
+		"/Users/hammadjutt/Desktop/a2_game/gui.py",
+		"/Users/hammadjutt/Dropbox/MASV/MASV Share Folder (1)/Development/Items.csv",
+		"/Users/hammadjutt/Dropbox/MASV/MASV Share Folder (1)/Development/Requests.csv",
+		"/Users/hammadjutt/Dropbox/Winter 2015/ECE 212/Lab/lab 3/Lab3.s",
+		"/Users/hammadjutt/Dropbox/Winter 2015/ECE 212/Lab/lab 3/Lab3a.s",
+		"/Users/hammadjutt/Google Drive/Downloads/ECE212_L07_S45.cfs",
+		"/Users/hammadjutt/Dropbox/Sub/program2.c",
+		"/Users/hammadjutt/Dropbox/uppercut media (dropbox)/SplitFit/Website/emails_sorted.txt",
+		"/Users/hammadjutt/Dropbox/uppercut media (dropbox)/SplitFit/Website/emails",
+		"/Users/hammadjutt/Dropbox/Sub/Cost.txt",
+		"/Users/hammadjutt/Dropbox/Sub/split.c",
+		"/Users/hammadjutt/Dropbox/git/masv/dashboard/static/css/dashboard.css",
+		"/Users/hammadjutt/Dropbox/winter 2015/ECE 212/Lab/Lab1 Final/lab1/Lab1b.s",
+		"/Users/hammadjutt/Dropbox/Winter 2015/ECE 212/Lab/Lab1 Final/lab1/Lab1a.s",
+		"/Users/hammadjutt/Dropbox/winter 2015/ECE 212/Lab/Lab1 Final/lab1/Lab1a.s",
+		"/Users/hammadjutt/Google Drive/Downloads/webapp.css",
+		"/Users/hammadjutt/Google Drive/Downloads/Code.cpp",
+		"/Users/hammadjutt/c275/lec5/graph.py",
+		"/Users/hammadjutt/c275/Ex2/poster.py",
+		"/Users/hammadjutt/Downloads/isbn10-2.py",
+		"/Users/hammadjutt/c275/ex1/weather.py",
+		"/Users/hammadjutt/c275/ex1/weather.csv",
+		"/Users/hammadjutt/Downloads/fahrenheit-2.py",
+		"/Volumes/45153FE2-497B-47B4-AAE4-5CBF16C7554B-1786-00000A2D2303C75F/aescripts_pack/Ease and Wizz 2.0/easingExpressions/outQuint-curvaceous-startEnd.js",
+		"/Volumes/45153FE2-497B-47B4-AAE4-5CBF16C7554B-1786-00000A2D2303C75F/aescripts_pack/Ease and Wizz 2.0/easingExpressions/outQuart-easeandwizz-all.js",
+		"/Users/hammadjutt/Dropbox/Uppercut Media (Dropbox)/Qasim Rasi/Productions.css",
+		"/Users/hammadjutt/Dropbox/CMPUT 274/Project/pong.cpp",
+		"/Users/hammadjutt/Dropbox/CMPUT 274/Final Project/Project/pong.cpp",
+		"/Volumes/ARDUINO-SD/mapdata.sd",
+		"/Users/hammadjutt/Dropbox/Apps/Azure/uppercutmedia/rs-plugin/css/settings.css",
+		"/Users/hammadjutt/Dropbox/Apps/Azure/uppercutmedia/css/style.css",
+		"/Users/hammadjutt/Dropbox/Apps/Azure/uppercutmedia/css/responsive.css",
+		"/Users/hammadjutt/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/hammadjutt/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/hammadjutt/Dropbox/Apps/Azure/uppercutmedia/index.html",
+		"/Users/hammadjutt/Library/Application Support/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/Users/hammadjutt/Library/Application Support/Sublime Text 3/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/hammadjutt/Downloads/themeforest-8855971-galactica-creative-multipurpose-html-template/Galactica Html/galactica-onepage/index.html",
+		"/Users/hammadjutt/Dropbox/Uppercut Media/Uppercut/Website/css/style.css",
+		"/Users/hammadjutt/Dropbox/Uppercut Media/Uppercut/Website/css/bootstrap.css",
+		"/Users/hammadjutt/Dropbox/Uppercut Media/Uppercut/Website/css/flexslider.css",
+		"/Users/hammadjutt/Dropbox/Uppercut Media/Uppercut/Website/css/font-awesome.css",
+		"/Users/hammadjutt/Dropbox/Uppercut Media/Uppercut/Website/css/jquery.bxslider.css",
+		"/Users/hammadjutt/VirtualBox VMs/CMPUT 274/CMPUT 274.vbox",
+		"/Users/hammadjutt/Dropbox/Apps/Azure/uppercutmedia/old/coming-soon.html",
+		"/Users/hammadjutt/Dropbox/Apps/Azure/uppercutmedia/old/js-plugin/jquery.countdown.package-1.6.3/countdownBasic.html",
+		"/Users/hammadjutt/Dropbox/Apps/Azure/uppercutmedia/old/js-plugin/jquery.countdown.package-1.6.3/jquery.countdown.js",
+		"/Users/hammadjutt/Dropbox/Apps/Azure/uppercutmedia/old/js-plugin/jquery.countdown.package-1.6.3/jquery.countdown.css",
+		"/Users/hammadjutt/Dropbox/Apps/Azure/uppercutmedia/css/colors.css",
+		"/Users/hammadjutt/Documents/MASV/masvtwilio/views/testold.jade",
+		"/Users/hammadjutt/Documents/MASV/masvtwilio/views/home.ejs",
+		"/Users/hammadjutt/Documents/MASV/masvtwilio/controllers/admin.js",
+		"/Users/hammadjutt/Dropbox/CMPUT 274/TOW.cpp"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"engine.py",
+			"<project>",
+			"/Users/hammadjutt/Dropbox/Apps/Azure/uppercutmedia"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"btn-pri",
+			"cover",
+			"cover2",
+			"cover",
+			"to_str",
+			"find_min_in_valley",
+			"import",
+			"list",
+			"bar",
+			"c",
+			"m",
+			"avail",
+			"sendM",
+			"send",
+			"isBoardLocked",
+			"isBoar",
+			"Cell",
+			"numM",
+			"send",
+			"random",
+			"moveL",
+			"moves",
+			"makeMove",
+			"move",
+			"moves",
+			"move",
+			"range( ",
+			"range(0,",
+			"column",
+			"item",
+			"size",
+			"len",
+			"score",
+			"os",
+			"sys",
+			"scoreB",
+			"merged",
+			"maxIndex",
+			"val",
+			"_",
+			"score",
+			"scoreB",
+			"next_cell",
+			"current_cell",
+			"rotate_count",
+			"idx",
+			"el_idx",
+			"row_idx",
+			"next",
+			"el_idx",
+			"row_idx",
+			"score_bonus_value",
+			"score",
+			"score_bonus_value",
+			"try",
+			"el_idx",
+			"row_idx",
+			"makegame",
+			"is_board_locked",
+			"is_boar",
+			"is_board",
+			"is_board_locked",
+			"available_spots",
+			"add_random_block",
+			"rotate_board",
+			"makegame",
+			"cursesBoard",
+			"cursesBo",
+			"cursesBoard",
+			"runRa",
+			"copy",
+			"curses",
+			"scree",
+			"simGame",
+			"moveL",
+			"numMo",
+			"):",
+			"clear",
+			"sendEmail",
+			"cate",
+			"category",
+			"catego",
+			"category",
+			"data-",
+			"data-my",
+			"Web",
+			"order",
+			"Web",
+			"data",
+			"Web Design",
+			"project-url",
+			"opacity",
+			"portfolio-ccon",
+			"portfolio",
+			"resu",
+			"4",
+			"game",
+			"score",
+			"run_random",
+			"d2",
+			"recognit",
+			"jquery",
+			"sass",
+			"img-1",
+			"profile",
+			"fun",
+			"photo",
+			"photogra",
+			"naz",
+			"hammad",
+			"project-tit",
+			"project",
+			"montse",
+			"mont",
+			"Roboto",
+			"Titillium Web",
+			"Merriweather",
+			"h2",
+			"hammad",
+			"pt sans",
+			"pt",
+			"pt sans",
+			"pt sans	",
+			"pt sans",
+			"http",
+			"Montserrat",
+			"Montse",
+			"raleway"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Tile",
+			"range(",
+			"col",
+			"Montserrat",
+			"Raleway",
+			"Titillium Web",
+			"Roboto",
+			"Wait",
+			"W",
+			"X",
+			"Y",
+			"Z",
+			"505050"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/hammadjutt/Dropbox/Apps/azure(1)/masv/static/less/style.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2454,
+								2454
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 149.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/hammadjutt/Dropbox/Apps/azure(1)/masv/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13292,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2327,
+								2327
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2934.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1019,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1019,
+								1019
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
+							"default_dir": "/Users/hammadjutt/Dropbox/Apps/azure(1)/masv",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/hammadjutt/Dropbox/Apps/azure(1)/masv/contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9097,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5333,
+								5333
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/hammadjutt/Dropbox/Apps/azure(1)/masv/pricing.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10917,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/hammadjutt/Dropbox/Apps/azure(1)/masv/login.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7719,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1583,
+								1583
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/hammadjutt/Documents/Startup Framework/Developer/ui-kit/ui-kit-price/less/ui-kit-styles.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 885,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/hammadjutt/Dropbox/Apps/azure(1)/masv/renters.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7746,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1583,
+								1583
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/hammadjutt/Dropbox/Apps/azure(1)/masv/suppliers.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7748,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1583,
+								1583
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "masv-website.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
